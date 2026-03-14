@@ -1,3 +1,4 @@
+> # TechFure3.0及4.0 已停更，这个仓库仅作存档
 # TechFure
 
 **TechFure** 是 <font color="pink">\_KOSHINO\_</font> 开发的一个基于 Scratch 的伪操作系统，即 **WebOS**。
